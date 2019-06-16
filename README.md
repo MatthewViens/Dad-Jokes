@@ -1,3 +1,11 @@
+# Dad-Jokes
+
+React app that fetches a selection of Dad jokes from the [icanhazdadjoke API](https://icanhazdadjoke.com/).
+You can request more using the "New Jokes" button, the app will automatically filter out
+duplicates. Rate jokes on a scale of 1 - 10, jokes are saved to local storage.
+
+[View Live](https://MatthewViens.github.io/Dad-Jokes).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
