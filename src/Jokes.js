@@ -83,7 +83,9 @@ class Jokes extends React.Component {
     return (
       <div className="jokes-wrapper">
         <div className="jokes-new">
-        <a href="https://MatthewViens.github.io/Dad-Jokes"><i class="fab fa-github"></i></a>
+        <a href="https://github.com/MatthewViens/Dad-Jokes" target="_blank" rel="noopener noreferrer">
+          <i class="fab fa-github"></i>
+        </a>
         <h1>Dad Jokes</h1>
         <div className="brand">
           <p>😄</p>
