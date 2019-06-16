@@ -83,7 +83,7 @@ class Jokes extends React.Component {
     return (
       <div className="jokes-wrapper">
         <div className="jokes-new">
-        <i class="fab fa-github"></i>
+        <a href="https://MatthewViens.github.io/Dad-Jokes"><i class="fab fa-github"></i></a>
         <h1>Dad Jokes</h1>
         <div className="brand">
           <p>😄</p>
