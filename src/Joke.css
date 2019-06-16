@@ -1,0 +1,31 @@
+.joke {
+  border-bottom: 1px solid #d4d6db;
+  padding: 1.5rem 1.5rem;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.joke-rating {
+  display: flex;
+  align-items: center;
+  margin-right: 1rem;
+}
+
+.joke-score {
+  height: 30px;
+  width: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #d4d6db;
+  border-radius: 50%;
+  margin: 0 .3rem;
+  -webkit-box-shadow: -1px 1px 5px 0px rgba(0,0,0,0.6);
+  -moz-box-shadow: -1px 1px 5px 0px rgba(0,0,0,0.6);
+  box-shadow: -1px 1px 5px 0px rgba(0,0,0,0.6);
+}
+
+.fa-arrow-up, .fa-arrow-down {
+  cursor: pointer;
+}
